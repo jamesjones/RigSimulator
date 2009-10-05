@@ -1,0 +1,12 @@
+[My Computer]
+My Computer = "192.168.0.102"
+
+[Networked Computer/Device]
+Networked Computer/Device = "0.0.0.0"
+
+[RT CompactRIO Target]
+RT CompactRIO Target = "0.0.0.0"
+
+[ThunderDRILL]
+ThunderDRILL = "192.168.0.103"
+
